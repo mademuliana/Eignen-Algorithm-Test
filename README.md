@@ -36,6 +36,3 @@ This will run the main logic of the Eigen Algorithm Test.
 
 Contributing
 Feel free to submit issues or pull requests for improvements.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details. """
