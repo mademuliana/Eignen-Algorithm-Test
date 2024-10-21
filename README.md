@@ -16,22 +16,22 @@ Make sure you have Python 3.x installed. You can download and install Python fro
 
    ```bash
    git clone https://github.com/your-repository/eigen-algorithm-test.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd eigen-algorithm-test
-Install the required Python packages (if any). If there's a requirements.txt file, run the following:
+2. Navigate to the project directory:
 
-bash
-Copy code
-pip install -r requirements.txt
-Running the Application
+    ```bash
+    cd eigen-algorithm-test
+3. Install the required Python packages (if any). If there's a requirements.txt file, run the following:
+
+    ```bash
+    pip install -r requirements.txt
+
+4. Running the Application
 To start the application, simply run the index.py file:
 
-bash
-Copy code
-python index.py
+    ```bash
+    python index.py
+
 This will run the main logic of the Eigen Algorithm Test.
 
 Contributing
